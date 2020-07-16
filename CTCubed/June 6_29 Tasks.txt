@@ -1,0 +1,24 @@
+Resize UI.
+
+Find differences between car controller and their car controller.
+
+
+All of the objects that they made in controls item listed (Seperate Doc). 
+
+
+
+/*
+
+Change the font to the font what they were using.
+toggle between teams, updates the UI
+
+After resizing the UI fix the text the letter, make the slice. Top bar kind of thing. 
+
+10 to 20 percent is all we need for the dropdown menu to change between the teams.
+
+Once i make the slice, contact Denzie.
+Back button doesnt do anything
+
+TabList of all the people, instructor can only see that
+AT a minimum, players should be able to see whos on what team
+*/

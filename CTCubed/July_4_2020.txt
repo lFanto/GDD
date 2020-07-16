@@ -1,0 +1,66 @@
+Spawning the player
+	- When Stage starts, spawn players via User's "Active Battlers" Collection
+
+
+Created the hashing table, reduces memory imprints. No scripts running in the background. 
+Use the Tooltip script
+
+grab all the toggles that they have, and put the toggles into a table.
+Table associated with an enum. The toggle tells it what it should be.
+
+Class that is the monobehaviour and will grab all of the toggles 
+
+
+TASK:
+
+copy the text file.
+edit the duplicated copy as a psd file
+only has 1 field, name of the item. 
+
+Take the cost, and the description.
+
+Create Starcraft screen with Modern UI Asset
+
+User widgets:
+
+User widgets in the Instructor UI
+has slider for cost amount
+Drop down for the objectives
+Drop Down for number of Scenes, 1 - 5
+
+Need two screens
+1 screen with what player is on what team.
+
+
+When the room is updated. It's going to turn off all the buttons, it's going to take the mouse model that were focused on,
+
+Bottom can be removed.
+
+No buttons on the left side
+
+Keep Akilon Wastes box, but take out all contents. put 1 tab for the instructor
+and 1 tab for the Student.
+
+Make left side a bit bigger, remove the buttons.
+
+Nothing for Students.
+	- The filtering might be into the Student thab
+	- The student tab will be the only one to join room
+
+Change Mode to No. Teams
+
+No. Players swapping places
+
+-Wait for this-
+
+Need to make a vertical Carousel. Cannot duplicate any number of rooms.
+
+Research the menu that happens in the game
+
+Type A Is the Time you spend is amount you make per dollar
+
+Type B The time you spend does not amount you make per dollar
+
+Type C is 
+
+make a prefab button that mimics the style of the dropdown. Similar to the one in round - 1 controls
