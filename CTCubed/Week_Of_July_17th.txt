@@ -1,0 +1,24 @@
+Builder
+Driver
+Camera
+None, X icon, Backseat
+
+Team select screen
+	- View Team
+	- View Vehicle
+	- Not dropdown, toggle, or each job there are 3
+
+Bottom panel, (put settings, and view room list)
+
+Scroll view just in case for edit screen and team tab panel, and view room list
+
+look for some icons, if not, try abstract icons
+
+
+Dialogue box
+	- Similar to modal window
+	- size fitter
+	- Dropdown in it, and text box
+
+
+**
